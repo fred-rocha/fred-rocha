@@ -51,9 +51,9 @@ O Vitta é uma aplicação SaaS voltada para planejamento e acompanhamento alime
 
 Você também pode acompanhar meu desenvolvimento profissional através das minhas outras plataformas:
 
-- **LinkedIn:** [Meu perfil](SEU_LINKEDIN)
-- **Instagram:** [Meu perfil](SEU_INSTAGRAM)
-- **YouTube:** [Meu canal](SEU_YOUTUBE)
+- **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/frederico-rocha-elias/)
+- **Instagram:** [Meu perfil](https://www.instagram.com/fred.rocha_?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==)
+- **YouTube:** [Meu canal](https://www.youtube.com/@fred_rocha)
 
 ## 📫 Contato
 
